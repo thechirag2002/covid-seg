@@ -17,11 +17,11 @@ COVID data are collected from different publicly accessible dataset, online sour
 
 ### With this dataset, segmented image of covid-19 chest under radiography is obtained by forking fully connected ***UNet model*** to obtain a mask for the corresponding chest image.
 
-<div style="display:flex list-style-type:none padding:15px">
-  <span style="align-items:center">- Chest image   </span>
-  <img src="https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-image.png" width="300" height="300"/>
-  <span style="align-items:center">- Mask Image    </span>
-  <img src="https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-mask.png" width="300" height="300"/>
+<div style="display:flex list-style-type:none padding:15">
+  - Chest image 
+  <img src="https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-image.png" width="250" height="250"/>
+  - Mask Image
+  <img src="https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-mask.png" width="250" height="250"/>
 </div>
 
 ## DICE COEFFICIENT SCORE
@@ -30,5 +30,5 @@ The Dice coefficient (also known as the Sørensen–Dice coefficient and F1 scor
 Dice = 2 |A∩B| / (|A|+|B|) = 2 TP / (2 TP + FP + FN) (TP=True Positives, FP=False Positives, FN=False Negatives)
 ```
 
-### The above Segmentation is done in 30 number of EPOCHS and performed the task with dice coefficient score of _96.28_ 
-![curves](https://github.com/thechirag2002/covid-seg/blob/b6b899fefa7727b0454bdf1b8be02ef9290991df/images/curves.png)
+### The above Segmentation is done in 30 number of EPOCHS and performed the task with dice coefficient score of _96.28_
+<img src="https://github.com/thechirag2002/covid-seg/blob/b6b899fefa7727b0454bdf1b8be02ef9290991df/images/curves.png" width="600" height="350"/>
