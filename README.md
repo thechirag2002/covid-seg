@@ -31,4 +31,4 @@ Dice = 2 |A∩B| / (|A|+|B|) = 2 TP / (2 TP + FP + FN) (TP=True Positives, FP=Fa
 ```
 
 ### The above Segmentation is done in 30 number of EPOCHS and performed the task with dice coefficient score of _96.28_
-<img src="https://github.com/thechirag2002/covid-seg/blob/b6b899fefa7727b0454bdf1b8be02ef9290991df/images/curves.png" width="600" height="350"/>
+<img src="https://github.com/thechirag2002/covid-seg/blob/b6b899fefa7727b0454bdf1b8be02ef9290991df/images/curves.png" width="900" height="250"/>
