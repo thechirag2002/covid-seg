@@ -10,15 +10,15 @@ A team of researchers from Qatar University, Doha, Qatar, and the University of 
 **COVID-19 data:**
 -----------------------
 COVID data are collected from different publicly accessible dataset, online sources and published papers.
--2473 CXR images are collected from padchest dataset[1].
--183 CXR images from a Germany medical school[2].
--559 CXR image from SIRM, Github, Kaggle & Tweeter[3,4,5,6]
--400 CXR images from another Github source[7].
+- 2473 CXR images are collected from padchest dataset[1].
+- 183 CXR images from a Germany medical school[2].
+- 559 CXR image from SIRM, Github, Kaggle & Tweeter[3,4,5,6]
+- 400 CXR images from another Github source[7].
 
 ### With this dataset, segmented image of covid-19 chest under radiography is obtained by forking fully connected ***UNet model*** to obtain a mask for the corresponding chest image.
 
-> Chest image 
-> ![Chest image](https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-image.png)
+- Chest image 
+![Chest image](https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-image.png | width=100)
 
-> Mask Image
-> ![Chest mask](https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-mask.png)
+- Mask Image
+![Chest mask](https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-mask.png | width=100)
