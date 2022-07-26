@@ -18,7 +18,8 @@ COVID data are collected from different publicly accessible dataset, online sour
 ### With this dataset, segmented image of covid-19 chest under radiography is obtained by forking fully connected ***UNet model*** to obtain a mask for the corresponding chest image.
 
 - Chest image 
-![Chest image](https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-image.png | width=100)
+![Chest image](https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-image.png=100x100)
 
 - Mask Image
-![Chest mask](https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-mask.png | width=100)
+<img src="https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-mask.png" width="150" height="200"/>
+![Chest mask](https://github.com/thechirag2002/covid-seg/blob/e40248cdbd8ca13db27213bc27025958033ef974/images/chest-mask.png)
